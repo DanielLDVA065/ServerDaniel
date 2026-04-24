@@ -1,0 +1,25 @@
+{
+  "name": "serverdaniel",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/DanielLDVA065/ServerDaniel#readme",
+  "bugs": {
+    "url": "https://github.com/DanielLDVA065/ServerDaniel/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielLDVA065/ServerDaniel.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "Actividad5.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
